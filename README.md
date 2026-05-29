@@ -45,8 +45,8 @@ Currently building hands-on skills through home labs, CTF challenges, and real-w
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpeedQwerty&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpeedQwerty&layout=compact&theme=dark)
 
 <!--
 **SpeedQwerty/SpeedQwerty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
