@@ -46,7 +46,6 @@ Currently building hands-on skills through home labs, CTF challenges, and real-w
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=SpeedQwerty&theme=dark)
-![GitHub Stats](https://readme-stats.clankstar.com/api?username=SpeedQwerty&show_icons=true&theme=dark)
 
 <!--
 **SpeedQwerty/SpeedQwerty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
