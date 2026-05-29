@@ -47,6 +47,11 @@ Currently building hands-on skills through home labs, CTF challenges, and real-w
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=SpeedQwerty&theme=dark)
 
+## ⚡ Languages
+- Belarussian — Native
+- Russian — Native
+- English — B1+
+
 <!--
 **SpeedQwerty/SpeedQwerty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
