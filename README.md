@@ -36,17 +36,17 @@ Currently building hands-on skills through home labs, CTF challenges, and real-w
 
 | Platform | Status |
 |---|---|
-| 🟢 TryHackMe — SOC Level 1 | Completed |
-| 🟢 LetsDefend.io | 10+ scenarios |
-| 🟢 PortSwigger Web Security Academy | 20+ labs |
-| 🟢 Splunk Fundamentals 1 | Completed |
+| 🟡 TryHackMe — SOC Level 1 | In progress |
+| 🟡 LetsDefend.io | In progress |
+| 🟡 PortSwigger Web Security Academy | In progress |
+| 🟡 Splunk Fundamentals 1 | In progress |
 | 🟡 HackTheBox | In progress |
 | 🟡 Boss of the SOC (BOTS) v1 | In progress |
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpeedQwerty&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpeedQwerty&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpeedQwerty&show_icons=true&theme=dark&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpeedQwerty&layout=compact&theme=dark&cache_seconds=1800)
 
 <!--
 **SpeedQwerty/SpeedQwerty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
