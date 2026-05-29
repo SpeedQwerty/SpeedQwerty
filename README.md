@@ -1,4 +1,4 @@
-# Hi, I'm Alex 👋
+<img width="474" height="711" alt="image" src="https://github.com/user-attachments/assets/3a5ea4f9-cdc2-49f0-bc42-57bb03f17d4f" /># Hi, I'm Alex 👋
 
 ## 🛡️ Aspiring SOC Analyst | Blue Team | Security Enthusiast
 
@@ -47,10 +47,15 @@ Currently building hands-on skills through home labs, CTF challenges, and real-w
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=SpeedQwerty&theme=dark)
 
+## 📚 Education
+
+BSUIR Computer Science (Bachelor Degree) 2024 — 2028
+
 ## ⚡ Languages
 - Belarussian — Native
 - Russian — Native
 - English — B1+
+
 
 <!--
 **SpeedQwerty/SpeedQwerty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
