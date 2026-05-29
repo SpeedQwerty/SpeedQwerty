@@ -1,4 +1,4 @@
-<img width="474" height="711" alt="image" src="https://github.com/user-attachments/assets/3a5ea4f9-cdc2-49f0-bc42-57bb03f17d4f" /># Hi, I'm Alex 👋
+# Hi, I'm Alex 👋
 
 ## 🛡️ Aspiring SOC Analyst | Blue Team | Security Enthusiast
 
